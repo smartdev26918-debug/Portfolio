@@ -104,10 +104,9 @@ npm run build
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-code.niladri%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:code.niladri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-code.niladri%40outlook.com-red?style=for-the-badge&logo=outlook)](mailto:Tommy.Liu95518@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niladri1-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/niladri1)
 [![GitHub](https://img.shields.io/badge/GitHub-niladri--1-black?style=for-the-badge&logo=github)](https://github.com/niladri-1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+916296554939)
 
 </div>
 
