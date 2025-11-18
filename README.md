@@ -100,15 +100,7 @@ npm run build
 
 </div>
 
-## 📞 Let's Connect
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-code.niladri%40outlook.com-red?style=for-the-badge&logo=outlook)](mailto:Tommy.Liu95518@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niladri1-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/niladri1)
-[![GitHub](https://img.shields.io/badge/GitHub-niladri--1-black?style=for-the-badge&logo=github)](https://github.com/niladri-1)
-
-</div>
 
 ## 📈 GitHub Stats
 
